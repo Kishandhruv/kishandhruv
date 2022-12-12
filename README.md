@@ -10,10 +10,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kishandhruv&theme=monokai&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-🙏 for reading!
 
-
-**kishandhruv/kishandhruv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kishandhruv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started 
 
@@ -29,3 +27,5 @@ I make elegantly professional **🌍 wordpress sites, 💻woocommerce site and �
 - ✍🏻 I write my personal thoughts on Programming & Tech on on my [Personal Blog](http://kishandhruv.hyperphp.com/)
 
 🕵 Take a look at my repositories and let's get in touch!
+
+🙏 for reading!
