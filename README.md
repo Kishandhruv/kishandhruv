@@ -1,5 +1,7 @@
 ![kishan-readme](https://www.canva.com/design/DAFUj41rqtc/Zcjwew7klaCyfFo4-L9PCw/view?utm_content=DAFUj41rqtc&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
 
+<img src="https://www.canva.com/design/DAFUj41rqtc/Zcjwew7klaCyfFo4-L9PCw/view?utm_content=DAFUj41rqtc&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu">
+
 <a href="mailto:kishandhruv01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=30></a>
 <a href="https://www.twitter.com/Kishandhruv01"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height=30></a>
  <a href="https://www.linkedin.com/in/kishandhruv/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=30></a>
